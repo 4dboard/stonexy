@@ -1,3 +1,6 @@
+### <sub>Key</sub>{sto}<sub>ne(.js)</sub>{ne}<sub>xt(.js)Pro</sub>{xy}
+![image](https://github.com/donspablo/stonexy/assets/6468571/d80dd819-ab21-4a4e-8850-bad5736cc425)
+
 <p align="center">
   <sup><sub>🦄 PLEASE REMEMBER TO SMASH THE ⭐🔨 BUTTON AND <a href="https://github.com/sponsors/donspablo/dashboard">SUPPORT</a> 🌈 THANK YOU.</sub></sup>
 </p>
@@ -11,10 +14,10 @@
 | <p align="center"><img height="150px" src="https://user-images.githubusercontent.com/6468571/191125131-4e76fe43-770b-49e8-aa66-d1c8723f7e7a.png"></img></p><sub><sup><a href="https://github.com/4dboard/Proxy-yxorP">YXORP PROXY</a>: Web Proxy 🐮 yxorP: SAAS(y) Guzzler + App (GUI Dashboard incl.). Feature Rich, Multi-tenancy, Headless, Plug & Play, Augmentation & Content Spinning Web Proxy with Caching - PHP CURL+Composer are Optional. Leveraging SAAS architecture to provide multi-tenancy, multiple threads, caching, and an article spinner service.</sub></sup> | <p align="center"><img height="150px" src="https://user-images.githubusercontent.com/6468571/191125113-9d991af2-f911-43df-8994-a573aaf9a7ac.png"></img></p><sub><sup><a href="https://github.com/meanos/meanOs">MEANOS</a>: The operating system with the smallest memory footprint and the highest performance levels. NEW RELEASE A new version of the Web3 operating system will be released in the near future. https://mean.ơs.com. Operating systems have been subjected to significant revisions; if you would want to be informed when the subsequent version is made available, please subscribe.</sub></sup> |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-![image](https://github.com/donspablo/stonexy/assets/6468571/f8f04f82-32fe-4d52-9fb6-2ba53a7e898d)
+![image](https://github.com/donspablo/next.js-proxy/assets/6468571/f8f04f82-32fe-4d52-9fb6-2ba53a7e898d)
 
-<p align="center"><img src="https://github.com/donspablo/stonexy/assets/6468571/36cb79e5-854d-4778-830f-6ed3df591ec6" /></p>
-<p align="center"><a href="https://github.com/donspablo/stonexy/actions/workflows/pages/pages-build-deployment"><img src="https://github.com/donspablo/stonexy/actions/workflows/pages/pages-build-deployment/badge.svg"/></a> <a href="https://app.netlify.com/sites/freegamesonline/deploys"><img src="https://api.netlify.com/api/v1/badges/7a251573-b9b3-45d6-9d74-86340e727316/deploy-status"/></a> <a href="https://vercelbadge.vercel.app/api/donspablo/stonexy"><img src="https://github.com/donspablo/stonexy/actions/workflows/nextjs.yml/badge.svg"/></a> <a href="https://github.com/donspablo/stonexy/actions/workflows/nextjs.yml"><img src="https://vercelbadge.vercel.app/api/donspablo/stonexy"/></a></p>
+<p align="center"><img src="https://github.com/donspablo/next.js-proxy/assets/6468571/36cb79e5-854d-4778-830f-6ed3df591ec6" /></p>
+<p align="center"><a href="https://github.com/donspablo/next.js-proxy/actions/workflows/pages/pages-build-deployment"><img src="https://github.com/donspablo/next.js-proxy/actions/workflows/pages/pages-build-deployment/badge.svg"/></a> <a href="https://app.netlify.com/sites/freegamesonline/deploys"><img src="https://api.netlify.com/api/v1/badges/7a251573-b9b3-45d6-9d74-86340e727316/deploy-status"/></a> <a href="https://vercelbadge.vercel.app/api/donspablo/stonexy"><img src="https://github.com/donspablo/next.js-proxy/actions/workflows/nextjs.yml/badge.svg"/></a> <a href="https://github.com/donspablo/next.js-proxy/actions/workflows/nextjs.yml"><img src="https://vercelbadge.vercel.app/api/donspablo/stonexy"/></a></p>
 
 # <sub>Key</sub>{sto}<sub>ne(.js)</sub>{ne}<sub>xt(.js)Pro</sub>{xy} | STO-NE-XY
 
@@ -104,9 +107,9 @@ streaming experience. Don't miss out on discovering the full potential of Stonex
 
 # Stonexy Setup
 
-![image](https://github.com/donspablo/stonexy/assets/6468571/dc1e0d63-f7ca-4b5e-9171-3367637c15c7)
+![image](https://github.com/donspablo/next.js-proxy/assets/6468571/dc1e0d63-f7ca-4b5e-9171-3367637c15c7)
 
-![image](https://github.com/donspablo/stonexy/assets/6468571/efaa99ac-299c-4975-ab63-182a2d79f65a)
+![image](https://github.com/donspablo/next.js-proxy/assets/6468571/efaa99ac-299c-4975-ab63-182a2d79f65a)
 
 Stonexy is a powerful tool that enables you to create a web proxy, mirror a desired website, and domain the
 application on Vercel. By following these expert instructions, you can set up Stonexy and deploy it on Vercel:
@@ -164,7 +167,7 @@ on
 Vercel. This allows you to mirror a desired website while utilizing the power and scalability of the Vercel hosting
 platform.
 
-![image](https://github.com/donspablo/stonexy/assets/6468571/6832e90b-44e5-42e3-85d7-4869007fc4bc)
+![image](https://github.com/donspablo/next.js-proxy/assets/6468571/6832e90b-44e5-42e3-85d7-4869007fc4bc)
 
 # 1. Forking the Repository:
 
