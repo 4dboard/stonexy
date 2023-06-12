@@ -1,0 +1,7 @@
+version: 2.1
+steps:
+  - save_cache:
+      key: dependency-cache-{{ checksum "yarn.lock" }}
+      paths:
+        - ./node_modules
+        - ./.next/cache

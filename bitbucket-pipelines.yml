@@ -1,0 +1,4 @@
+pipelines:
+definitions:
+  caches:
+    nextcache: .next/cache

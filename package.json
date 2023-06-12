@@ -1,0 +1,45 @@
+{
+  "name": "stonext",
+  "version": "01",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "keystone:dev": "keystone dev",
+    "keystone:build": "keystone buildn",
+    "keystone:start": "keystone start",
+    "next:dev": "next dev -p 4000",
+    "next:build": "next build",
+    "dev": "concurrently --kill-others  -p \"{name} / {pid} / [{time}] : \" -n  \"\uD83C\uDF08:/> STONE.JS,\uD83E\uDD84:/ > NEXT.JS\"  -c \"yellow.bgBlack.bold,green.bgWhite.bold.italic\"  \"pnpm keystone:dev\" \"pnpm next:dev\"",
+    "build": "concurrently --kill-others   -p \"{name} / {pid} / [{time}] : \" -n  \"\uD83C\uDF08:/> STONE.JS,\uD83E\uDD84:/ > NEXT.JS\"  -c \"yellow.bgBlack.bold,green.bgWhite.bold.italic\"  \"pnpm keystone:build\" \"pnpm next:build\"",
+    "postinstall": "keystone postinstall",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.7.15",
+    "@keystone-6/auth": "^7.0.0",
+    "@keystone-6/core": "^5.3.1",
+    "@keystone-6/document-renderer": "^1.1.2",
+    "@keystone-6/fields-document": "^8.0.0",
+    "@netlify/plugin-nextjs": "^4.37.4",
+    "@preconstruct/next": "^4.0.0",
+    "@prisma/client": "^4.15.0",
+    "concurrently": "^8.2.0",
+    "env": "^0.0.2",
+    "graphql": "^16.6.0",
+    "graphql-request": "^6.1.0",
+    "graphql-yoga": "^4.0.0",
+    "http-proxy-middleware": "3.0.0-beta.1",
+    "jimp": "^0.22.8",
+    "next": "^13.4.5",
+    "pnpm": "^8.6.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.0",
+    "@types/react": "^18.2.12",
+    "@types/react-dom": "^18.2.5",
+    "prisma": "^4.15.0",
+    "typescript": "^5.1.3"
+  }
+}
