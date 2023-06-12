@@ -1,3 +1,6 @@
+### <sub>Key</sub>{sto}<sub>ne(.js)</sub>{ne}<sub>xt(.js)Pro</sub>{xy}
+![image](https://github.com/donspablo/stonexy/assets/6468571/d80dd819-ab21-4a4e-8850-bad5736cc425)
+
 <p align="center">
   <sup><sub>🦄 PLEASE REMEMBER TO SMASH THE ⭐🔨 BUTTON AND <a href="https://github.com/sponsors/donspablo/dashboard">SUPPORT</a> 🌈 THANK YOU.</sub></sup>
 </p>
